@@ -24,7 +24,7 @@ const Galeria = () => {
             </h1>
             <hr/>
 
-                <form>
+                <div className={"formii"}>
                     <button className={"btn btn-warning"} onClick={() => filterItem('Estructuras lineales')}>Estructuras Lineales</button>
                     <button className={"btn btn-warning"} onClick={() => filterItem('Ordenamientos')}>Ordenamientos</button>
                     <button className={"btn btn-warning"} onClick={() => filterItem('Estructuras arbóreas')}>Estructuras arbóreas</button>
@@ -32,7 +32,7 @@ const Galeria = () => {
                     <button className={"btn btn-warning"} onClick={() => filterItem('Algoritmo de codificación')}>Algoritmo de codificación</button>
                     <button className={"btn btn-warning"} onClick={() => filterItem('Estructuras Compuestas')}>Estructuras Compuestas</button>
                     <button className={"btn btn-warning"} onClick={() => setItems(Estructuras)}>Todos</button>
-                </form>
+                </div>
 
 
 
