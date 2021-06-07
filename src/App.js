@@ -1,6 +1,4 @@
 
-import './App.css';
-
 import Galeria from "./components/Menu/Galeria";
 
 const App = () => {
