@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PruebaReactJs/G17/static/css/main.08ea6888.chunk.css",
-    "main.js": "/PruebaReactJs/G17/static/js/main.07aade87.chunk.js",
-    "main.js.map": "/PruebaReactJs/G17/static/js/main.07aade87.chunk.js.map",
-    "runtime-main.js": "/PruebaReactJs/G17/static/js/runtime-main.9747f89d.js",
-    "runtime-main.js.map": "/PruebaReactJs/G17/static/js/runtime-main.9747f89d.js.map",
-    "static/js/2.b63fcc59.chunk.js": "/PruebaReactJs/G17/static/js/2.b63fcc59.chunk.js",
-    "static/js/2.b63fcc59.chunk.js.map": "/PruebaReactJs/G17/static/js/2.b63fcc59.chunk.js.map",
-    "index.html": "/PruebaReactJs/G17/index.html",
-    "static/css/main.08ea6888.chunk.css.map": "/PruebaReactJs/G17/static/css/main.08ea6888.chunk.css.map",
-    "static/js/2.b63fcc59.chunk.js.LICENSE.txt": "/PruebaReactJs/G17/static/js/2.b63fcc59.chunk.js.LICENSE.txt",
-    "static/media/logo-fiusac.e9c919d6.png": "/PruebaReactJs/G17/static/media/logo-fiusac.e9c919d6.png"
+    "main.css": "/PruebaReactJs/Pagina/static/css/main.08ea6888.chunk.css",
+    "main.js": "/PruebaReactJs/Pagina/static/js/main.07aade87.chunk.js",
+    "main.js.map": "/PruebaReactJs/Pagina/static/js/main.07aade87.chunk.js.map",
+    "runtime-main.js": "/PruebaReactJs/Pagina/static/js/runtime-main.c73dc30c.js",
+    "runtime-main.js.map": "/PruebaReactJs/Pagina/static/js/runtime-main.c73dc30c.js.map",
+    "static/js/2.b63fcc59.chunk.js": "/PruebaReactJs/Pagina/static/js/2.b63fcc59.chunk.js",
+    "static/js/2.b63fcc59.chunk.js.map": "/PruebaReactJs/Pagina/static/js/2.b63fcc59.chunk.js.map",
+    "index.html": "/PruebaReactJs/Pagina/index.html",
+    "static/css/main.08ea6888.chunk.css.map": "/PruebaReactJs/Pagina/static/css/main.08ea6888.chunk.css.map",
+    "static/js/2.b63fcc59.chunk.js.LICENSE.txt": "/PruebaReactJs/Pagina/static/js/2.b63fcc59.chunk.js.LICENSE.txt",
+    "static/media/logo-fiusac.e9c919d6.png": "/PruebaReactJs/Pagina/static/media/logo-fiusac.e9c919d6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9747f89d.js",
+    "static/js/runtime-main.c73dc30c.js",
     "static/js/2.b63fcc59.chunk.js",
     "static/css/main.08ea6888.chunk.css",
     "static/js/main.07aade87.chunk.js"
